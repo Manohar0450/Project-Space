@@ -22,12 +22,12 @@ export default function ResourcesLinks() {
               <ResourceCard 
                 title="WhatsApp"
                 links={[
-                  { text:"9010488777", url: "" },
+                  { text:"9010488777", url: "https://wa.me/9010488777" },
                 ]}
               />
               {/* Any other queries Contact */}
               <ResourceCard
-                title="Any Other Queries Contact"
+                title="Any other queries Contact"
                 links={[
                   { text: "9246699008", url: "" },
                 ]}
