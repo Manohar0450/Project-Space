@@ -15,15 +15,14 @@ export default function ResourcesLinks() {
               <ResourceCard
                 title="Email Address"
                 links={[
-                  { text: "What.ok@gmail.com", url: "https://www.skincancer.org/skin-cancer-information/skin-cancer-facts/?fbclid=IwAR3r4icfuXoOjTxPX_AaHG8qRosxKMzdmrBMdciB6TmZ1kGisMwLLRyP0OM" },
+                  { text: "projectspace.031@gmail.com", url: "https://in.search.yahoo.com/search?fr=mcafee&type=E211IN826G0&p=gmail" },
                 ]}
               />
               {/* American Academy of Dermatology */}
               <ResourceCard 
                  title="Whats App"
                 links={[
-                  { text:"1234567890`1234567`", url: "https://www.aad.org/public/diseases/skin-cancer/prevent/how" },
-                  { text:"1234567890`1`", url: "https://www.aad.org/public/diseases/skin-cancer/prevent/how" },
+                  { text:"9010488777", url: "" },
 
                   ]}
               />
@@ -31,11 +30,9 @@ export default function ResourcesLinks() {
               <ResourceCard
                 title="Any other queries Contact"
                 links={[
-                  { text: "no:76453464623", url: "https://melanoma.org/melanoma-education/prevention/young-adult-prevention/" },
+                  { text: "9700652777", url: "" },
                 ]}
               />
-              
-              
             </div>
           </div>
         </div>
