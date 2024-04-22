@@ -27,7 +27,7 @@ export default function ResourcesLinks() {
               />
               {/* Any other queries Contact */}
               <ResourceCard
-                title="Any other queries Contact"
+                title="Any Other Queries Contact"
                 links={[
                   { text: "9246699008", url: "" },
                 ]}
