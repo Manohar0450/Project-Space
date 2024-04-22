@@ -20,8 +20,7 @@ export default function ResourcesLinks() {
               />
               {/* American Academy of Dermatology */}
               <ResourceCard 
-                title="Mobile Number"
-                title="Whats App"
+                 title="Whats App"
                 links={[
                   { text:"1234567890`1234567`", url: "https://www.aad.org/public/diseases/skin-cancer/prevent/how" },
                   { text:"1234567890`1`", url: "https://www.aad.org/public/diseases/skin-cancer/prevent/how" },
