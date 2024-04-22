@@ -9,7 +9,7 @@ export default function Hero() {
     <Image src={FeBg} alt="Febg" style={{ height: '70vh',width:'100vh' }} />
         <div style={{ position: 'absolute', top: '50%', left: '70%', transform: 'translate(-50%, -50%)', textAlign: 'center', color: 'white' }}>
            <h2 className="text-3xl font-semibold mb-4 animate-slideTopDown" style={{ color: 'black'}}>PROJECT CONNECT WE WILL DO WHAT YOU WANT</h2>
-          <p className="text-lg animate-slideBottomUp"x  style={{ color: 'black'}} > Every great project starts with a vision, but it's the integration of IoT that transforms that vision into a reality of interconnected possibilities."</p>
+          <p className="text-lg animate-slideBottomUp" style={{ color: 'black'}} > Every great project starts with a vision, but it's the integration of IoT that transforms that vision into a reality of interconnected possibilities."</p>
          </div>
   </div>
   <div className="container mx-auto mt-12 px-4 flex flex-wrap items-center" style={{backgroundColor:"#f6f6f6"}}>
