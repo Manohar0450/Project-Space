@@ -15,7 +15,7 @@ export default function ResourcesLinks() {
               <ResourceCard
                 title="Email Address"
                 links={[
-                  { text: "projectspace.031@gmail.com", url: "https://in.search.yahoo.com/search?fr=mcafee&type=E211IN826G0&p=gmail" },
+                  { text: "projectconnect.pc@gmail.com", url: "https://in.search.yahoo.com/search?fr=mcafee&type=E211IN826G0&p=gmail" },
                 ]}
               />
               {/* American Academy of Dermatology */}
@@ -30,7 +30,7 @@ export default function ResourcesLinks() {
               <ResourceCard
                 title="Any other queries Contact"
                 links={[
-                  { text: "9700652777", url: "" },
+                  { text: "9246699008", url: "" },
                 ]}
               />
             </div>
